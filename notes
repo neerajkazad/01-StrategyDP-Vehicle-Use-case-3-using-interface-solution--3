@@ -1,0 +1,8 @@
+Program no: 3
+
+This is the program where we are using strategy design pattern.
+ 1) Favor composition over inheritance
+ 2) Always design to interfaces, never code to concrete classes
+ 3) our code should be open for extension and closed for modification
+ 
+ In this program we are fully using all the above three rules of Strategy Design Pattern.
